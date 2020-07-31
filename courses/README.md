@@ -1,4 +1,4 @@
-# CONTENT
+# Content
 
 See the notes as a static page via [nbviewer](https://nbviewer.jupyter.org/)
 
